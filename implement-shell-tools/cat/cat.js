@@ -1,5 +1,4 @@
 import { program } from 'commander'
-import process from 'process'
 import fs from 'fs'
 
 // const argv = process.argv[4]
